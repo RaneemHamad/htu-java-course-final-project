@@ -13,7 +13,7 @@ public class ASB {
 		
 		// Array of names for the teams
 		String[] names = { "Coders-HTU", "Syntax-JU", "Fast-JU", "BugFree-UJ", "Smooth-PSUT",
-		                   "Speedy-PIU", "Efficient-STU", "Precise-OKH", "Swift-CU", "Bright-HU" };
+		                   "Speedy-PIU", "Effi-STU", "Precise-OKH", "Swift-CU", "Bright-HU" };
 		
 		// Initialize the team ID
 		int id = 100;

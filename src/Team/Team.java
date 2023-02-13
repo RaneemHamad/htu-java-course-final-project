@@ -1,21 +1,15 @@
 package Team;
 public class Team {
-    // The ID of the team
+    
     public int id;
-
-    // The name of the team
     private String name;
-
-    // The number of problems solved by the team
     private int solved;
-
-    // The total elapsed time (in minutes) taken by the team to solve problems
     private int elapsedTime;
   
     // Constructor to initialize the team with given ID, name, number of problems solved, and elapsed time
     public Team(int id, String name, int solved, int elapsedTime) {
       this.id = id;
-      this.setName(name);
+      this.setName( name);
       this.setSolved(solved);
       this.setElapsedTime(elapsedTime);
     }
